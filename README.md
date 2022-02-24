@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub stats for GerwaldO](https://github-readme-stats.vercel.app/api?username=gerwaldo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gerwaldo/gerwaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
